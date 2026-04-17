@@ -1,5 +1,3 @@
-# synent-task5-superstore-sales-analysis
-Data analysis project using Python to explore Superstore sales trends, top products, and regional performance with visualizations.
 # Superstore Sales Analysis 📊
 
 ## 📌 Project Overview
@@ -22,16 +20,17 @@ This project analyzes a Superstore dataset to understand sales trends, product p
 
 ---
 
-## 📈 Key Insights
-- Sales show an overall increasing trend from 2015 to 2018.
-- Significant spikes in sales suggest seasonal demand.
-- A few top products contribute a large portion of revenue.
-- Technology category generates the highest sales.
-- West region contributes the most to overall sales.
+## 🔍 Key Insights
+- Sales show an overall increasing trend from 2015 to 2018, indicating business growth.
+- Significant spikes in sales are observed during certain months, suggesting seasonal demand.
+- A few top products contribute a large portion of total revenue.
+- Technology category generates the highest sales among all categories.
+- The West region contributes the most to overall sales.
+- Sales distribution varies significantly across categories and regions.
 
 ---
 
-## 📷 Visualizations
+## 📈 Visualizations
 
 ### Monthly Sales Trend
 ![Monthly Sales](monthly_sales.png)
